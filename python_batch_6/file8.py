@@ -1,1 +1,2 @@
-﻿print(f'This is file {8}')
+﻿#Prog08. swapcase() reverse the casing of each of the character of the string. Create a program that do the same functionality without using swapcase() function.
+#Iterate through each character, converting lowercase to uppercase and vice versa using isupper(), lower(), and upper().
