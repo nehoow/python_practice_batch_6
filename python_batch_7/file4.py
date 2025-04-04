@@ -1,1 +1,2 @@
 ﻿#Prog04. islower() check if all characters of the string is on lower case. Create a program that do the same functionality without using islower() function.
+#Check if all characters are lowercase by iterating and checking for uppercase.
