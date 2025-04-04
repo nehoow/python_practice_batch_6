@@ -1,1 +1,2 @@
 ﻿#Prog09. index() return the first location of the function parameter in the string. Create a program that do the same functionality without using index() function.
+#Find the first index of a substring by iterating and comparing slices, breaking on first match.
